@@ -42,7 +42,7 @@ export default function Hero() {
                 CONTACT ME
             </a>
             <a 
-                href="https://drive.google.com/file/d/1owE_wBg9OfkAsOotD_gq7RBULlszZVDK/view?usp=sharing" 
+                href="https://drive.google.com/file/d/10MJ-D5XD-aA6cj5FHD5o3yWSDLRmW8UV/view?usp=sharing" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-purple-600 to-cyan-500 text-white px-6 py-3 rounded-full font-semibold hover:opacity-90 transition-all shadow-lg text-center min-w-[140px]"
