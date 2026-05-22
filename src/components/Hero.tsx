@@ -57,7 +57,7 @@ export default function Hero() {
           initial={{ opacity: 0, x: 50 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
-          className="bg-[#111111] border border-gray-800 rounded-xl overflow-hidden shadow-2xl relative w-full max-w-lg"
+          className="bg-[#111111] border border-gray-800 rounded-xl overflow-hidden shadow-2xl relative w-full max-w-lg lg:ml-auto"
         >
           {/* Mac style window controls */}
           <div className="bg-[#1a1a1a] px-4 py-3 border-b border-gray-800 flex gap-2 items-center">

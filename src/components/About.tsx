@@ -53,7 +53,7 @@ export default function About() {
 
       {/* 2. Vertical Text (Moved OUTSIDE the centered container) */}
       <div className="hidden lg:flex absolute left-[-110px] top-1/2 -translate-y-1/2 -rotate-90 origin-center z-0 opacity-20 pointer-events-none">
-        <span className="text-gray-500 font-bold tracking-[0.5em] text-3xl uppercase whitespace-nowrap">
+        <span className="text-gray-500 font-bold tracking-[0.5em] text-5xl uppercase whitespace-nowrap">
           About Me
         </span>
       </div>
