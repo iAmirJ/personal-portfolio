@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Aamir Javed | Developer Portfolio 🚀
 
-## Getting Started
+Welcome to the repository of my personal developer portfolio! I am a **Full-Stack AI Engineer** specializing in building scalable backend systems, autonomous AI agents, and modern web applications.
 
-First, run the development server:
+This portfolio is designed with a dark, AI-centric theme to showcase my projects, skills, and experience, featuring smooth animations and a fully functional contact system.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
+* **Modern UI/UX:** Built with a sleek, dark aesthetic perfect for developers.
+* **Smooth Animations:** Powered by Framer Motion for scroll-triggered and interactive animations.
+* **Fully Functional Contact Form:** Direct email routing using Next.js API routes and Nodemailer.
+* **Responsive Design:** Flawlessly optimized for all screen sizes (Mobile, Tablet, Desktop).
+* **Dynamic Sections:** Includes About, Experience, Education, Skills, Projects, and Contact sections.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
+* **Framework:** [Next.js (App Router)](https://nextjs.org/)
+* **Library:** [React.js](https://react.dev/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Animations:** [Framer Motion](https://www.framer.com/motion/)
+* **Icons:** [React Icons](https://react-icons.github.io/react-icons/) / [Lucide React](https://lucide.dev/)
+* **Backend / Email:** Next.js API Routes + Nodemailer
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### AI / Development
+- RAG Systems
+- Autonomous AI Agents
+- LangChain
+- LLM Integrations
+- Vector Databases
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📫 Connect With Me
 
-To learn more about Next.js, take a look at the following resources:
+I am always open to discussing AI projects, RAG integrations, and Full-Stack opportunities. Feel free to reach out!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**GitHub:** @iAmirJ
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**LinkedIn:** Aamir Javed
 
-## Deploy on Vercel
+**Instagram:** @iamirjaved
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Email:** amirjaved1925@gmail.com
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+Designed & Built by **Aamir Javed** © 2026
